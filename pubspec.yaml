@@ -1,6 +1,6 @@
 name: basic_image_gallery
 description: A basic image gallery widget which is used to display images from the network and local files.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/Dinesh41/basic_image_gallery
 
 environment:
