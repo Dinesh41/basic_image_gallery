@@ -2,7 +2,7 @@
 
 A basic image gallery widget for android and ios.
 
-![Overview](https://raw.githubusercontent.com/)
+![Overview](https://github.com/Dinesh41/basic_image_gallery/blob/master/doc/images/basic_image_gallery.gif)
 
 ## Features
 
@@ -58,11 +58,11 @@ set `networkUrls` to empty.
 
 ## Changelog
 
-Please see the [Changelog](https://github.com/letsar/flutter_slidable/blob/master/CHANGELOG.md) page to know what's recently changed.
+Please see the [Changelog](https://github.com/Dinesh41/basic_image_gallery/blob/master/CHANGELOG.md) page to know what's recently changed.
 
 ## Contributions
 
 Feel free to contribute to this project.
 
-If you find a bug or want a feature, but don't know how to fix/implement it, please fill an [issue](https://github.com/letsar/flutter_slidable/issues).
-If you fixed a bug or implemented a feature, please send a [pull request](https://github.com/letsar/flutter_slidable/pulls).
+If you find a bug or want a feature, but don't know how to fix/implement it, please fill an [issue](https://github.com/Dinesh41/basic_image_gallery/issues).
+If you fixed a bug or implemented a feature, please send a [pull request](https://github.com/Dinesh41/basic_image_gallery/pulls).
