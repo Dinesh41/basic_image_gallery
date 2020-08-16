@@ -2,7 +2,7 @@
 
 A basic image gallery widget for android and ios.
 
-![Overview](https://github.com/Dinesh41/basic_image_gallery/blob/master/doc/images/basic_image_gallery.gif)
+![Overview](https://github.com/Dinesh41/basic_image_gallery/blob/master/doc/images/basic_image_gallery.gif =324x627)
 
 ## Features
 
